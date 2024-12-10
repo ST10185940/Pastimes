@@ -1,0 +1,213 @@
+body{
+    padding: 10px;
+}
+
+html{
+	scroll-behavior: smooth;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/*Invisible scroll bar - well kinda - */
+body::-webkit-scrollbar {
+	width: 0em;
+}
+
+header{
+    margin-top: -40px;
+    font-size: 16px;
+    color: white;
+    border-radius: 12px;
+    background-color: #C56400;
+}
+
+.logo{
+    margin-top: 20px;
+    height: 150px;
+    margin-right: 360px;  
+    border-radius: 10px; 
+    opacity: .8;
+}
+
+nav {
+    margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.secondary-nav{  
+    margin-top: -40px;
+    margin-left: 660px ;
+    color: white;
+    text-align: justify;
+}
+
+nav ul {
+	margin: 15px;
+    margin-top: -42px;
+	padding: 30px;
+}
+
+nav li {
+	display: inline-block;
+	margin-left: 20px;
+    margin-top: -0px;
+    margin-right: 50px;
+}
+
+nav a {
+	color: black;
+	text-decoration: none;
+}
+
+footer{
+    color: white;
+    border-radius: 12px;
+    background-color: #C56400;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.footer-nav{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; 
+}
+
+footer .social{
+    display: flex;
+    justify-content: center;
+}
+
+footer p{
+    margin: 10px;
+    text-align: center;
+    margin-top: -9px;
+}
+
+.social img{
+    height: 20px;
+    margin: 10px;
+    margin-top: -5px;
+}
+
+.social img:hover{
+    transform: scale(1.2);
+}
+
+.welcome{
+   background-color: white;
+   max-width: 100%;
+   padding: 40px;
+   font-size: 18px;
+   text-align: center;
+   padding: 100px;
+}
+
+.welcome li{
+    list-style: none;
+}
+
+.How-to{
+    background-color: rgba(173, 216, 230, 0.075);
+    max-width: 90%;
+    padding: 40px;
+    margin: 5px;
+    border-radius: 20px;
+}
+
+.buy-sell{  
+    background-color: rgba(211, 211, 211, 0.199);
+    max-width: 90%;
+    padding :20px;
+    border-radius: 20px; 
+    margin-left: 75px;
+    color: black;
+}
+
+.buy-sell button[type=view]{
+    background-color:rgb(52, 197, 52);
+    color: white;
+    padding: 5px 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.buy-sell button[type=view]:hover{
+    background-color: darkgrey;
+}
+.about{
+    background-color: rgba(112, 149, 161, 0.075);
+    border-radius: 20px;
+    max-width: 80%;
+    padding: 40px;
+    margin: 10px;
+    margin-left: 170px;
+}
+.centre-text{
+    text-align: center;
+    font-size: 18px;
+    text-decoration:solid;
+    
+}
+.text-image{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+form{
+    width: 530%;
+}
+
+
+.login-form{
+    width: 120%;
+}
+
+.about .text-image .table{       
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    overflow: auto;
+}
+
+.about .text-image .table th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+.about .text-image .table th {
+    background-color: #f2f2f2;
+}
+
+.product-card {
+    text-align: center;
+    width: 30%;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.product-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.vr{
+    border-left: 1px solid black;
+    height: 300px;
+    margin-left: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

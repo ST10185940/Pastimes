@@ -1,0 +1,20 @@
+1,3,Blue Jeans,Classic blue denim jeans,clothing,M,New,49.99,1,Levi's,bluejeans.jpg
+2,3,Black T-shirt,Cotton black t-shirt,clothing,L,Used,15.99,1,Nike,blacktshirt.jpeg
+3,5,Red Dress,Stylish red evening dress,clothing,S,New,79.99,0,Zara,img_url3
+4,5,White Sneakers,Comfortable white sneakers,footwear,42,Used,59.99,1,Adidas,whitesneakers.jpg
+5,3,Grey Jacket,Casual grey jacket,clothing,XL,New,89.99,1,H&M,greyjacket.jpeg
+6,10,Leather Jacket,Black leather jacket,clothing,XL,Used,129.99,1,Zara,leatherjacket.jpg
+7,10,Running Shoes,Lightweight running shoes,footwear,44,New,99.99,0,Reebok,img_url7
+8,15,Green Skirt,Stylish green skirt,clothing,M,New,49.99,1,Gucci,greenskirt.jpeg
+9,12,Winter Coat,Warm winter coat,clothing,L,Used,199.99,0,North Face,img_url9
+10,12,Summer Dress,Light summer dress,clothing,S,New,59.99,1,H&M,img_url10
+11,6,Boots,Leather boots,footwear,41,New,89.99,1,Timberland,img_url11
+12,6,Sweater,Woolen sweater,clothing,M,New,49.99,1,Uniqlo,img_url12
+13,17,Bag,Leather shoulder bag,accessory,One Size,New,129.99,1,Coach,img_url13
+14,17,Scarf,Cashmere scarf,accessory,One Size,New,29.99,1,Prada,img_url14
+15,19,Denim Jacket,Stylish denim jacket,clothing,L,Used,79.99,1,Levi's,img_url15
+16,19,Sneakers,Comfy everyday sneakers,footwear,43,New,69.99,1,Nike,img_url16
+17,19,Hat,Summer straw hat,accessory,One Size,New,19.99,1,H&M,img_url17
+18,12,Running Shorts,Lightweight running shorts,clothing,L,Used,25.99,1,Reebok,img_url18
+19,15,Backpack,Stylish backpack,accessory,One Size,New,99.99,1,Adidas,img_url19
+20,3,Joggers,Comfortable jogger pants,clothing,XL,New,39.99,1,Puma,img_url20

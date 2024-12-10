@@ -1,0 +1,20 @@
+1,John,Doe,johndoe,$2a$12$eB5.wCRcdt4uL8Fr1tIRse,john@example.com,buyer,NULL,"123 Street, City, 12345",1234567890,1
+2,Jane,Doe,janedoe,$2a$12$mlJn/MFOfklHweQRnFKO1O,jane@example.com,buyer,NULL,"456 Avenue, City, 67890",0987654321,0
+3,Bob,Smith,bsmith,$2a$12$h4xjbvFmIO4wJ5QJh2S41q,bob@example.com,seller,NULL,"789 Boulevard, City, 54321",1122334455,1
+4,Alice,Johnson,ajohnson,$2a$12$MeG51HWaFekjfv9zWV3.AO,alice@example.com,buyer,NULL,"321 Lane, City, 98765",9988776655,0
+5,Mary,Jones,mjones,$2a$12$cROuGQVbwB9u5Ksc5Bt.Oy,mary@example.com,seller,NULL,"654 Road, City, 11223",8877665544,1
+6,Linda,Brown,lbrown,$2a$12$FtyMz1qO16aYmjXjbY3HhO,linda@example.com,buyer,NULL,"500 Elm St, City, 44556",1233211234,1
+7,Tom,White,twhite,$2a$12$R5MeD5aBmv3Zcm5Alk/WY.I,tom@example.com,seller,NULL,"432 Maple St, City, 77889",5556667777,0
+8,Susan,Davis,sdavis,$2a$12$G1gA8Rx7HtQlDCViPLV3ku,susan@example.com,buyer,NULL,"765 Cedar St, City, 99876",3332221111,1
+9,Kate,Wilson,kwilson,$2a$12$U1Px5UkeDbW5ot7uMFD69O,kate@example.com,buyer,NULL,"125 Oak St, City, 45678",7778889999,0
+10,James,Green,jgreen,$2a$12$Nly2zqlD3aQ9TFYMB8ED6e,james@example.com,seller,NULL,"999 Pine St, City, 34567",8889997777,1
+11,Sarah,Lopez,slopez,$2a$12$9kXW1skgHD8D1iHrF21Gxe,sarah@example.com,buyer,NULL,"77 5th Ave, City, 23456",5554443322,1
+12,Michael,Young,myoung,$2a$12$h3x6UPdpG2FE3D2htZ5tFO,michael@example.com,seller,NULL,"22 Tree Ave, City, 67890",9998887776,1
+13,Henry,Turner,hturner,$2a$12$1kmDgXbC1e3Qv2EEI4h7XG,henry@example.com,buyer,NULL,"55 Hill Rd, City, 12345",6667778889,0
+14,Emily,Scott,escott,$2a$12$1m5wxZ8lEz5slAh8M7i7G6,emily@example.com,buyer,NULL,"33 Creek St, City, 54321",2223334441,1
+15,Nancy,Lee,nlee,$2a$12$SQhGrPne3aO55yc8Z8TLqu,nancy@example.com,seller,NULL,"101 Star Rd, City, 67890",9996665552,1
+16,George,King,gking,$2a$12$E9N.suZyhnUj95cyH2qxqe,george@example.com,buyer,NULL,"92 Bay Rd, City, 23456",1112223332,1
+17,Lisa,Parker,lparker,$2a$12$X5k5Q8I2Ut8AdQj2LSz42e,lisa@example.com,seller,NULL,"10 Pearl Rd, City, 98765",4443332223,1
+18,David,Clark,dclark,$2a$12$IcH00E/v4F4HQcHJImq1yO,david@example.com,buyer,NULL,"9 River St, City, 87654",3214321233,0
+19,Megan,Bell,mbell,$2a$12$GvU/b3K3V2pbI8Wn1e.KH6,megan@example.com,seller,NULL,"81 Ocean St, City, 76543",7776665554,1
+20,Chris,Evans,cevans,$2a$12$9jB1.tX/N6wYjndhuFcoH6,chris@example.com,buyer,NULL,"15 South Rd, City, 65432",8887776664,0

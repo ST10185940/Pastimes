@@ -1,0 +1,21 @@
+oid,checkout_date,payment_method,total,status,delivery_info,recipient,uid
+1,2024-10-10 12:30:00,credit card,105.98,delivered,"123 Street, City",John Doe,1
+2,2024-10-09 14:45:00,paypal,139.98,processed,"789 Boulevard, City",Bob Smith,3
+3,2024-10-07 16:10:00,debit card,139.98,pending,"500 Elm St, City",Linda Brown,6
+4,2024-10-06 17:20:00,credit card,59.99,delivered,"765 Cedar St, City",Susan Davis,8
+5,2024-10-06 19:00:00,credit card,109.98,processed,"123 Street, City",John Doe,1
+6,2024-10-05 10:25:00,paypal,179.98,pending,"500 Elm St, City",Linda Brown,6
+7,2024-10-05 13:45:00,credit card,199.99,delivered,"77 5th Ave, City",Sarah Lopez,11
+8,2024-10-04 09:50:00,credit card,49.99,processed,"33 Creek St, City",Emily Scott,14
+9,2024-10-03 18:30:00,paypal,139.99,pending,"92 Bay Rd, City",George King,16
+10,2024-10-03 20:15:00,credit card,79.99,delivered,"81 Ocean St, City",Megan Bell,19
+11,2024-10-03 08:40:00,debit card,69.99,delivered,"9 River St, City",David Clark,18
+12,2024-10-02 14:55:00,credit card,129.99,processed,"22 Tree Ave, City",Michael Young,12
+13,2024-10-02 16:25:00,paypal,49.99,processed,"125 Oak St, City",Kate Wilson,9
+14,2024-10-01 10:30:00,credit card,119.99,pending,"432 Maple St, City",Tom White,7
+15,2024-10-01 11:45:00,debit card,129.99,delivered,"999 Pine St, City",James Green,10
+16,2024-10-01 13:00:00,paypal,199.99,pending,"654 Road, City",Mary Jones,5
+17,2024-09-30 09:15:00,credit card,69.99,processed,"55 Hill Rd, City",Henry Turner,13
+18,2024-09-30 12:10:00,credit card,39.99,delivered,"456 Avenue, City",Jane Doe,2
+19,2024-09-29 16:30:00,paypal,49.99,delivered,"10 Pearl Rd, City",Lisa Parker,17
+20,2024-09-29 18:00:00,debit card,79.99,delivered,"15 South Rd, City",Chris Evans,20
